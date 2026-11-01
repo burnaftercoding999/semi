@@ -8,6 +8,10 @@ https://burnaftercoding999.github.io/semi/
 
 ページには、報告値、会社計画、二次推計、仮定計算、検証済みチェックを区別して表示しています。USDを基準にし、表示用のJPY換算を併記しています。
 
+## 読み方
+
+最初に結論を読み、その後で公表値、予測の手順、期間別の結果、限界の順に確認できます。3か月先は四半期売上の探索的な計算、1年と3年は前提を置いたシナリオです。数字の種類と対象期間をそろえて読んでください。
+
 ## 初回設定
 
 リポジトリの Settings → Pages → Build and deployment → Source で `GitHub Actions` を選択します。公開ワークフローは `.github/workflows/pages.yml` です。artifactの対象は `public/site` に限定しています。
