@@ -1,0 +1,58 @@
+[
+  {
+    "as_of": "2026-11-01",
+    "latest_observation": "2026-08-31",
+    "latest_sales_usd_billion": 159.7,
+    "latest_sales_jpy_billion": 25367.96172,
+    "fx_period": "2026-08-01",
+    "fx": 158.8476,
+    "dynamic_forecast_usd_billion": 585.69,
+    "dynamic_forecast_jpy_billion": 91611.18,
+    "scenario_rows": [
+      {
+        "horizon": "1年",
+        "case": "基準",
+        "growth": 0.12,
+        "usd": 178.864,
+        "jpy": 28412.1171264
+      },
+      {
+        "horizon": "1年",
+        "case": "上振れ",
+        "growth": 0.20499999999999996,
+        "usd": 192.4385,
+        "jpy": 30568.3938726
+      },
+      {
+        "horizon": "1年",
+        "case": "下振れ",
+        "growth": -0.115,
+        "usd": 141.3345,
+        "jpy": 22450.6461222
+      },
+      {
+        "horizon": "3年",
+        "case": "基準",
+        "growth": 0.08,
+        "usd": 201.1760064,
+        "jpy": 31956.325794224642
+      },
+      {
+        "horizon": "3年",
+        "case": "上振れ",
+        "growth": 0.12749999999999997,
+        "usd": 228.90462507343744,
+        "jpy": 36360.95032181536
+      },
+      {
+        "horizon": "3年",
+        "case": "下振れ",
+        "growth": -0.0475,
+        "usd": 138.00660402656248,
+        "jpy": 21922.017833769787
+      }
+    ],
+    "status": "generated_from_saved_research_outputs",
+    "generated_at": "2026-11-01T10:46:50+00:00"
+  }
+]
